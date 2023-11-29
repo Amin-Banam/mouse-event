@@ -1,7 +1,7 @@
 # mouse-event
 ![viewfinal](1.png)
 
-- [Demo Project](https://amin-banam.github.io/Persian_temp/)
+- [Demo Project](https://amin-banam.github.io/mouse-event/)
 
 - Developed by amin-banam
 
